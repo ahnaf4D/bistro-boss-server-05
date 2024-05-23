@@ -1,5 +1,5 @@
-# Bistro Boss Restaurant Part 04 Server
+# Bistro Boss Restaurant Part 05 Server
 
-These is a Part 04 server of bistro boss restaurant.
+These is a Part 05server of bistro boss restaurant.
 
-## [Client Side Repository](https://github.com/ahnaf4D/bistro-boss-restaurant-client-04)
+## [Client Side Repository](https://github.com/ahnaf4D/bistro-boss-client-05)
